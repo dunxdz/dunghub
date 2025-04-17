@@ -1,6 +1,6 @@
 -- Dũng Hub - Hoho Giao Diện - Không cần key - Xeno 1.1.75
 local Logo = "https://raw.githubusercontent.com/dunxdz/Dunxhub/main/boruto_logo.png"
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xshzx/HohoHub/main/UI_Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RunDTM/HohoHub/main/UILibrary.lua"))()
 local Window = Library:CreateWindow("Dũng Hub", Logo)
 
 -- Auto Farm Tab
